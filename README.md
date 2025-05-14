@@ -20,5 +20,5 @@ The COVID-19 pandemic caused unprecedented disruptions to California's bar indus
 ## Presentation Slides
 [Google Slides (View Only)](https://docs.google.com/presentation/d/1ngPWniOjQacvNZU1Jaumrzf1G3EO7Toa)
 
-## 🛠Tools
+## Tools
 Python · Pandas · NLP · VADER · BERT · Matplotlib · Hypothesis Testing
