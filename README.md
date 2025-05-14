@@ -10,15 +10,15 @@ The COVID-19 pandemic caused unprecedented disruptions to California's bar indus
 - **Customer Segmentation**: Identified loyal customers and their preferred services.
 
 ## Key Visualizations
-###Average Rating by Delivery Service
+### Average Rating by Delivery Service
 Bars that offered delivery during the COVID-19 pandemic received significantly higher average ratings compared to those that did not (4.0 vs. 3.5, *p* = 0.010). This suggests that customers appreciated the added convenience and safety of delivery options.
 
-![Average Rating by Delivery](images/avg_rating_delivery.png)
+<img src="images/avg_rating_delivery.png" width="500"/>
 
 ### Sentiment Score by Adaptation Measures
 Bars that implemented adaptation measures (e.g., delivery, contactless service, outdoor seating) had significantly higher sentiment scores compared to those that did not (*p* < 0.001). Among all measures, **contactless and touchless services** had the strongest positive impact on customer sentiment.
 
-![Sentiment by Adaptation](images/sentiment_adaptation.png)
+<img src="images/sentiment_adaptation.png" width="500"/>
 
 
 ## Files
