@@ -28,4 +28,5 @@ Bars that implemented adaptation strategies—particularly delivery and takeout�
 - Bars offering delivery had significantly higher average ratings (4.0 vs. 3.5, p = 0.010)
 - These businesses also received more reviews (381 vs. 55, p = 0.038), indicating stronger customer engagement
 - Sentiment scores were significantly higher among adapted businesses (p < 0.001), especially those implementing contactless services
+
 These findings demonstrate that customer-centric adaptations—especially those prioritizing safety and convenience—played a key role in mitigating pandemic-related business losses.
