@@ -26,7 +26,7 @@ Bars that implemented adaptation measures (e.g., delivery, contactless service, 
 - `slides (Google Slide)/`: Final presentation
 
 ## Presentation Slides
-[Google Slides (View Only)](https://docs.google.com/presentation/d/1ngPWniOjQacvNZU1Jaumrzf1G3EO7Toa)
+[Google Slides (View Only)](https://docs.google.com/presentation/d/1ecz8wR_qxiFOYmy9qpOxCKBWDeFurytP/edit?usp=sharing&ouid=104301292306575929503&rtpof=true&sd=true)
 
 ## Tools
 Python · Pandas · NLP · VADER · BERT · Matplotlib · Hypothesis Testing
