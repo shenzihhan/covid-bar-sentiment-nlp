@@ -22,7 +22,7 @@ Bars that implemented adaptation measures (e.g., delivery, contactless service, 
 
 
 ## Files
-- `FinalProject_Team010.ipynb`: Full code and analysis
+- `Fyelp_nlp_covid_bar_analysis.ipynb`: Full code and analysis
 - `slides (Google Slide)/`: Final presentation
 
 ## Presentation Slides
